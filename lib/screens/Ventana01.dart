@@ -46,6 +46,7 @@ Widget Body() {
         fit: BoxFit.cover
        )
 
+
     ) ,
     child: Column(
       mainAxisAlignment: MainAxisAlignment.center,
